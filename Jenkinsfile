@@ -6,5 +6,10 @@ pipeline{
                 echo 'Hello world'
             }
         }
+        stage('ujjwal'){
+            steps{
+                echo '500108694'
+            }
+        }
     }
 }
